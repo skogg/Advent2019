@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2019", "AdventOfCode2019\AdventOfCode2019.csproj", "{9D3E49F3-F114-42D0-8CD9-8E904FFD6B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advent01", "..\Advent01\Advent01.csproj", "{0DA5CBC4-D758-4307-A583-72376BB834A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{449AE379-0E97-4A78-97AB-6FD6092BFBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3E49F3-F114-42D0-8CD9-8E904FFD6B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3E49F3-F114-42D0-8CD9-8E904FFD6B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3E49F3-F114-42D0-8CD9-8E904FFD6B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3E49F3-F114-42D0-8CD9-8E904FFD6B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA5CBC4-D758-4307-A583-72376BB834A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA5CBC4-D758-4307-A583-72376BB834A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA5CBC4-D758-4307-A583-72376BB834A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA5CBC4-D758-4307-A583-72376BB834A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449AE379-0E97-4A78-97AB-6FD6092BFBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449AE379-0E97-4A78-97AB-6FD6092BFBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449AE379-0E97-4A78-97AB-6FD6092BFBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449AE379-0E97-4A78-97AB-6FD6092BFBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF4DD28-D87D-4C64-8066-D09757B62427}
+	EndGlobalSection
+EndGlobal
